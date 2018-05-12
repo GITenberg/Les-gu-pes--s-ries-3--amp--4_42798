@@ -1,0 +1,32 @@
+_repo: Les-gu-pes--s-ries-3--amp--4_42798
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42798-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Karr, Alphonse
+    alias: Karr, Jean-Alphonse
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '37873'
+    url: http://www.gutenberg.org/2009/agents/37873
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Alphonse_Karr
+    - http://en.wikipedia.org/wiki/Jean-Baptiste_Alphonse_Karr
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42798'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcc 'DC'
+- !lcsh 'French essays'
+title: Les guêpes ­— séries 3 & 4
+url: http://www.gutenberg.org/ebooks/42798
